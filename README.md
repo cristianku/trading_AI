@@ -21,4 +21,6 @@ Alpha Vantage : https://www.alphavantage.co
 
 needed python libraries:
 
-pip install request
+pip3 install request
+pip3 install pytz
+pip3 install pandas
