@@ -18,12 +18,17 @@ def save_ohlc_data(data, pair, filename="bitcoin_ohlc.csv", first_run=False):
                 file.write(f"{timestamp},{open_price},{high},{low},{close},{vwap},{volume},{count}\n")
 
 def safe_request(url):
+    retry_delay = 5  # start with 1 second
+    max_delay = 300  # maximum delay of 5 minutes
     while True:
         response = requests.get(url)
-        if response.status_code == 429:  # 429 is the HTTP status code for Too Many Requests
-            print("Rate limit exceeded, waiting to retry...")
-            time.sleep(10)  # Wait before retrying
+        data = response.json()
+        if 'EGeneral:Too many requests' in data['error']:
+            print(f"Rate limit exceeded, waiting {retry_delay} seconds to retry...")
+            time.sleep(retry_delay)
+            retry_delay = min(retry_delay * 2, max_delay)  # increase delay, cap at max_delay
             continue
+        time.sleep (.2)
         return response
 
 
