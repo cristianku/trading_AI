@@ -41,3 +41,7 @@ gpgcheck = 1
 gpgkey = https://repos.influxdata.com/influxdata-archive_compat.key
 EOF
 ```
+-- InfluxDB installation 
+```bash
+sudo dnf install influxdb2 influxdb2-cli
+```

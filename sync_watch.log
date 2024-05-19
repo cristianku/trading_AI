@@ -4583,3 +4583,390 @@ rsync script completed at Sun May 19 19:11:54 CEST 2024
 sent 837 bytes  received 1,734 bytes  1,028.40 bytes/sec
 total size is 6,157,467  speedup is 2,394.97
 rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 799 bytes  received 1,740 bytes  1,692.67 bytes/sec
+total size is 6,158,029  speedup is 2,425.38
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 473 bytes  received 1,253 bytes  690.40 bytes/sec
+total size is 6,158,059  speedup is 3,567.82
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 777 bytes  received 1,746 bytes  1,682.00 bytes/sec
+total size is 6,158,609  speedup is 2,440.99
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 779 bytes  received 1,746 bytes  1,683.33 bytes/sec
+total size is 6,158,639  speedup is 2,439.06
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 797 bytes  received 1,746 bytes  1,017.20 bytes/sec
+total size is 6,159,201  speedup is 2,422.02
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 798 bytes  received 1,746 bytes  1,017.60 bytes/sec
+total size is 6,159,231  speedup is 2,421.08
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 775 bytes  received 1,758 bytes  1,013.20 bytes/sec
+total size is 6,159,793  speedup is 2,431.82
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 655 bytes  received 1,259 bytes  765.60 bytes/sec
+total size is 6,159,848  speedup is 3,218.31
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 823 bytes  received 1,758 bytes  1,032.40 bytes/sec
+total size is 6,160,373  speedup is 2,386.82
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 827 bytes  received 1,758 bytes  1,034.00 bytes/sec
+total size is 6,160,403  speedup is 2,383.13
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 807 bytes  received 1,764 bytes  1,028.40 bytes/sec
+total size is 6,160,965  speedup is 2,396.33
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 488 bytes  received 1,265 bytes  701.20 bytes/sec
+total size is 6,161,020  speedup is 3,514.56
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 708 bytes  received 1,770 bytes  991.20 bytes/sec
+total size is 6,161,545  speedup is 2,486.50
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 657 bytes  received 1,271 bytes  771.20 bytes/sec
+total size is 6,161,600  speedup is 3,195.85
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 826 bytes  received 1,776 bytes  1,040.80 bytes/sec
+total size is 6,162,123  speedup is 2,368.23
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 571 bytes  received 1,277 bytes  739.20 bytes/sec
+total size is 6,162,178  speedup is 3,334.51
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 789 bytes  received 1,782 bytes  1,028.40 bytes/sec
+total size is 6,162,703  speedup is 2,397.01
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 670 bytes  received 1,277 bytes  778.80 bytes/sec
+total size is 6,162,758  speedup is 3,165.26
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 837 bytes  received 1,782 bytes  1,047.60 bytes/sec
+total size is 6,163,283  speedup is 2,353.30
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 628 bytes  received 1,283 bytes  764.40 bytes/sec
+total size is 6,163,338  speedup is 3,225.19
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 805 bytes  received 1,788 bytes  1,037.20 bytes/sec
+total size is 6,163,863  speedup is 2,377.12
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 685 bytes  received 1,283 bytes  787.20 bytes/sec
+total size is 6,163,918  speedup is 3,132.07
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+README.md
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 1,141 bytes  received 1,825 bytes  1,186.40 bytes/sec
+total size is 6,164,464  speedup is 2,078.38
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 661 bytes  received 1,289 bytes  780.00 bytes/sec
+total size is 6,164,529  speedup is 3,161.30
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 848 bytes  received 1,800 bytes  1,059.20 bytes/sec
+total size is 6,165,056  speedup is 2,328.19
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 565 bytes  received 1,295 bytes  744.00 bytes/sec
+total size is 6,165,111  speedup is 3,314.58
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 791 bytes  received 1,806 bytes  1,038.80 bytes/sec
+total size is 6,165,636  speedup is 2,374.14
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 672 bytes  received 1,295 bytes  786.80 bytes/sec
+total size is 6,165,691  speedup is 3,134.57
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 838 bytes  received 1,806 bytes  1,762.67 bytes/sec
+total size is 6,166,216  speedup is 2,332.15
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 623 bytes  received 1,301 bytes  1,282.67 bytes/sec
+total size is 6,166,271  speedup is 3,204.92
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 804 bytes  received 1,812 bytes  1,046.40 bytes/sec
+total size is 6,166,798  speedup is 2,357.34
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 689 bytes  received 1,301 bytes  1,326.67 bytes/sec
+total size is 6,166,853  speedup is 3,098.92
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 768 bytes  received 1,824 bytes  1,036.80 bytes/sec
+total size is 6,167,380  speedup is 2,379.39
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 652 bytes  received 1,307 bytes  1,306.00 bytes/sec
+total size is 6,167,435  speedup is 3,148.26
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 822 bytes  received 1,824 bytes  1,058.40 bytes/sec
+total size is 6,167,962  speedup is 2,331.05
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 557 bytes  received 1,313 bytes  748.00 bytes/sec
+total size is 6,168,017  speedup is 3,298.40
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 785 bytes  received 1,830 bytes  1,046.00 bytes/sec
+total size is 6,168,542  speedup is 2,358.91
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 665 bytes  received 1,313 bytes  791.20 bytes/sec
+total size is 6,168,597  speedup is 3,118.60
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 802 bytes  received 1,830 bytes  1,052.80 bytes/sec
+total size is 6,169,122  speedup is 2,343.89
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 622 bytes  received 1,319 bytes  776.40 bytes/sec
+total size is 6,169,177  speedup is 3,178.35
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 801 bytes  received 1,842 bytes  1,762.00 bytes/sec
+total size is 6,169,702  speedup is 2,334.36
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 683 bytes  received 1,319 bytes  800.80 bytes/sec
+total size is 6,169,757  speedup is 3,081.80
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 764 bytes  received 1,848 bytes  1,741.33 bytes/sec
+total size is 6,170,282  speedup is 2,362.28
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 650 bytes  received 1,325 bytes  1,316.67 bytes/sec
+total size is 6,170,337  speedup is 3,124.22
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+
+sent 823 bytes  received 1,848 bytes  1,068.40 bytes/sec
+total size is 6,170,864  speedup is 2,310.32
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+
+sent 738 bytes  received 1,854 bytes  1,036.80 bytes/sec
+total size is 6,171,160  speedup is 2,380.85
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+README.md
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 1,164 bytes  received 1,885 bytes  1,219.60 bytes/sec
+total size is 6,171,514  speedup is 2,024.11
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 691 bytes  received 1,331 bytes  808.80 bytes/sec
+total size is 6,171,579  speedup is 3,052.22
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 745 bytes  received 1,860 bytes  1,736.67 bytes/sec
+total size is 6,172,106  speedup is 2,369.33
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 625 bytes  received 1,337 bytes  784.80 bytes/sec
+total size is 6,172,161  speedup is 3,145.85
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 804 bytes  received 1,866 bytes  1,068.00 bytes/sec
+total size is 6,172,686  speedup is 2,311.87
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 687 bytes  received 1,337 bytes  1,349.33 bytes/sec
+total size is 6,172,741  speedup is 3,049.77
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 769 bytes  received 1,872 bytes  1,056.40 bytes/sec
+total size is 6,173,268  speedup is 2,337.47
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 676 bytes  received 1,343 bytes  807.60 bytes/sec
+total size is 6,173,323  speedup is 3,057.61
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 831 bytes  received 1,872 bytes  1,081.20 bytes/sec
+total size is 6,173,848  speedup is 2,284.07
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 547 bytes  received 1,349 bytes  758.40 bytes/sec
+total size is 6,173,903  speedup is 3,256.28
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 781 bytes  received 1,878 bytes  1,772.67 bytes/sec
+total size is 6,174,428  speedup is 2,322.09
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 692 bytes  received 1,349 bytes  816.40 bytes/sec
+total size is 6,174,483  speedup is 3,025.22
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
