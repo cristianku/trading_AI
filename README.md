@@ -26,3 +26,18 @@ pip3 install pytz
 pip3 install pandas
 pip3 install pykrakenapi  --> https://github.com/dominiktraxl/pykrakenapi
 
+
+INFLUXDB installation on Fedora 39
+https://computingforgeeks.com/how-to-install-influxdb-on-fedora/?utm_content=cmp-true
+
+-- adding repository
+```bash
+sudo tee /etc/yum.repos.d/influxdb.repo<<EOF
+[influxdb]
+name = InfluxDB Repository - RHEL 
+baseurl = https://repos.influxdata.com/rhel/8/x86_64/stable/
+enabled = 1
+gpgcheck = 1
+gpgkey = https://repos.influxdata.com/influxdata-archive_compat.key
+EOF
+```
