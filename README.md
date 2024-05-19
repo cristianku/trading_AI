@@ -24,3 +24,5 @@ needed python libraries:
 pip3 install request
 pip3 install pytz
 pip3 install pandas
+pip3 install pykrakenapi  --> https://github.com/dominiktraxl/pykrakenapi
+
