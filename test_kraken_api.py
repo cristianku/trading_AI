@@ -24,8 +24,18 @@ def fetch_ohlc_data(api_key, pair, interval, since):
         'interval': interval,
         'since': since
     }
+    print("")
+    print("************************************")
+    print("Making API call to:", url)
+    print("With parameters:", params)
+    print("first returned timestamp:", datetime.utcfromtimestamp(since).strftime('%Y-%m-%d %H:%M:%S'))
+    print("************************************")
+    print("")
+
     response = requests.get(url, headers=headers, params=params)
-    return response.json()
+    response_data = response.json()
+    # print("API response:", response_data)
+    return response_data
 
 def save_ohlc_data(data, pair, filename="bitcoin_ohlc.csv", first_run=False):
     """Save OHLC data to a CSV file."""
@@ -57,13 +67,17 @@ def main():
     # Convert to UTC
     utc_time = local_time.astimezone(pytz.utc)
 
-    utc_time_one_hour_ago = utc_time - timedelta(hours=6)
+    utc_time_one_hour_ago = utc_time - timedelta(hours=48)
 
     since = int(utc_time_one_hour_ago.timestamp())
 
     first_run = True
     while True:
         print (since)
+        readable_timestamp = datetime.utcfromtimestamp(since).strftime('%Y-%m-%d %H:%M:%S')
+
+        print("Last returned timestamp:", readable_timestamp)
+
         data = fetch_ohlc_data(api_key, pair, interval, since)
         if 'error' in data and data['error']:
             print("Error:", data['error'])
@@ -74,18 +88,16 @@ def main():
 
         if 'result' in data and 'last' in data['result']:
             # since = data['result']['last']  # Update since to the last returned timestamp
-            since = int(data['result'][pair][0][0])  # First element's timestamp
-            # readable_timestamp = datetime.utcfromtimestamp(since).strftime('%Y-%m-%d %H:%M:%S')
+            first = int(data['result'][pair][0][0])  # First element's timestamp
+            print("first returned timestamp:", datetime.utcfromtimestamp(first).strftime('%Y-%m-%d %H:%M:%S'))
 
-            # print("Last returned timestamp:", readable_timestamp)
+            last = int(data['result'][pair][0][0])  # First element's timestamp
+            print("Last returned timestamp:", datetime.utcfromtimestamp(last).strftime('%Y-%m-%d %H:%M:%S'))
 
-            since = since - 3600*6  # Subtract 6 hours in seconds
+            since = last   # Subtract 6 hours in seconds
             if since < three_days_ago:
                 print("Timestamp is older than three days. Stopping data fetch.")
                 break
-            # readable_timestamp = datetime.utcfromtimestamp(since).strftime('%Y-%m-%d %H:%M:%S')
-
-            # print("Last returned timestamp:", readable_timestamp)
 
         else:
             print("Completed fetching data.")
@@ -93,7 +105,7 @@ def main():
 
         time.sleep(5)  # Sleep to respect API rate limits
         print ("next round")
-        # break
+        break
 
     sort_csv_by_timestamp("bitcoin_ohlc.csv")
 
