@@ -45,3 +45,25 @@ EOF
 ```bash
 sudo dnf install influxdb2 influxdb2-cli
 ```
+-- InfluxDB service is not started by default after installation. You need to start it manually.
+```bash
+sudo systemctl start influxdb
+```
+
+-- Also enable the service to start on OS boot up.
+
+```bash
+sudo systemctl enable influxdb
+```
+
+-- If the start was successful, the check on status should indicate “running”
+```bash
+systemctl status influxdb
+```
+
+-- The service listens on port 8086
+```bash
+ss -tunelp| grep 8086
+```
+
+
