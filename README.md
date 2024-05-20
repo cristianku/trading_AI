@@ -133,7 +133,7 @@ sudo vi /etc/influxdb/config.toml
 
 -- Add the followingline
 ```bash
-http-bind-address = ":9086"
+http-bind-address = ":8086"
 ```
 
 ```
