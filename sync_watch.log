@@ -6752,3 +6752,3320 @@ sync_watch.log
 sent 675 bytes  received 1,823 bytes  1,665.33 bytes/sec
 total size is 6,251,266  speedup is 2,502.51
 rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 821 bytes  received 2,538 bytes  1,343.60 bytes/sec
+total size is 6,251,793  speedup is 1,861.21
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 511 bytes  received 1,829 bytes  936.00 bytes/sec
+total size is 6,251,848  speedup is 2,671.73
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 782 bytes  received 2,544 bytes  2,217.33 bytes/sec
+total size is 6,252,373  speedup is 1,879.85
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 661 bytes  received 1,829 bytes  996.00 bytes/sec
+total size is 6,252,428  speedup is 2,511.02
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 824 bytes  received 2,544 bytes  1,347.20 bytes/sec
+total size is 6,252,953  speedup is 1,856.58
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 603 bytes  received 1,835 bytes  1,625.33 bytes/sec
+total size is 6,253,008  speedup is 2,564.81
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 801 bytes  received 2,556 bytes  1,342.80 bytes/sec
+total size is 6,253,535  speedup is 1,862.83
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 683 bytes  received 1,835 bytes  1,007.20 bytes/sec
+total size is 6,253,590  speedup is 2,483.55
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 850 bytes  received 2,556 bytes  1,362.40 bytes/sec
+total size is 6,254,117  speedup is 1,836.21
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 636 bytes  received 1,841 bytes  990.80 bytes/sec
+total size is 6,254,172  speedup is 2,524.90
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 823 bytes  received 2,562 bytes  1,354.00 bytes/sec
+total size is 6,254,697  speedup is 1,847.77
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 825 bytes  received 2,562 bytes  1,354.80 bytes/sec
+total size is 6,254,727  speedup is 1,846.69
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 772 bytes  received 2,568 bytes  1,336.00 bytes/sec
+total size is 6,255,289  speedup is 1,872.84
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 768 bytes  received 2,568 bytes  1,334.40 bytes/sec
+total size is 6,255,319  speedup is 1,875.10
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 824 bytes  received 2,574 bytes  1,359.20 bytes/sec
+total size is 6,255,881  speedup is 1,841.05
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 610 bytes  received 1,853 bytes  985.20 bytes/sec
+total size is 6,255,936  speedup is 2,539.97
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 797 bytes  received 2,580 bytes  1,350.80 bytes/sec
+total size is 6,256,461  speedup is 1,852.67
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 799 bytes  received 2,580 bytes  1,351.60 bytes/sec
+total size is 6,256,491  speedup is 1,851.58
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 855 bytes  received 2,580 bytes  1,374.00 bytes/sec
+total size is 6,257,053  speedup is 1,821.56
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 635 bytes  received 1,859 bytes  997.60 bytes/sec
+total size is 6,257,108  speedup is 2,508.86
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 790 bytes  received 2,586 bytes  1,350.40 bytes/sec
+total size is 6,257,633  speedup is 1,853.56
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 511 bytes  received 1,865 bytes  950.40 bytes/sec
+total size is 6,257,688  speedup is 2,633.71
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 781 bytes  received 2,598 bytes  1,351.60 bytes/sec
+total size is 6,258,213  speedup is 1,852.09
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 784 bytes  received 2,598 bytes  1,352.80 bytes/sec
+total size is 6,258,243  speedup is 1,850.46
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 831 bytes  received 2,598 bytes  2,286.00 bytes/sec
+total size is 6,258,805  speedup is 1,825.26
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 831 bytes  received 2,598 bytes  2,286.00 bytes/sec
+total size is 6,258,835  speedup is 1,825.27
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 776 bytes  received 2,604 bytes  1,352.00 bytes/sec
+total size is 6,259,397  speedup is 1,851.89
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 776 bytes  received 2,604 bytes  1,352.00 bytes/sec
+total size is 6,259,427  speedup is 1,851.90
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 749 bytes  received 2,604 bytes  1,341.20 bytes/sec
+total size is 6,259,989  speedup is 1,866.98
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 750 bytes  received 2,604 bytes  1,341.60 bytes/sec
+total size is 6,260,019  speedup is 1,866.43
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 798 bytes  received 2,616 bytes  1,365.60 bytes/sec
+total size is 6,260,581  speedup is 1,833.80
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 798 bytes  received 2,616 bytes  1,365.60 bytes/sec
+total size is 6,260,611  speedup is 1,833.81
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 760 bytes  received 2,622 bytes  1,352.80 bytes/sec
+total size is 6,261,173  speedup is 1,851.32
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 758 bytes  received 2,622 bytes  1,352.00 bytes/sec
+total size is 6,261,203  speedup is 1,852.43
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 800 bytes  received 2,622 bytes  2,281.33 bytes/sec
+total size is 6,261,765  speedup is 1,829.86
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 800 bytes  received 2,622 bytes  2,281.33 bytes/sec
+total size is 6,261,795  speedup is 1,829.86
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 780 bytes  received 2,628 bytes  1,363.20 bytes/sec
+total size is 6,262,357  speedup is 1,837.55
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 661 bytes  received 1,889 bytes  1,700.00 bytes/sec
+total size is 6,262,412  speedup is 2,455.85
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 771 bytes  received 2,634 bytes  1,362.00 bytes/sec
+total size is 6,262,939  speedup is 1,839.34
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 652 bytes  received 1,895 bytes  1,018.80 bytes/sec
+total size is 6,262,994  speedup is 2,458.97
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 825 bytes  received 2,640 bytes  1,386.00 bytes/sec
+total size is 6,263,521  speedup is 1,807.65
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+
+sent 827 bytes  received 2,640 bytes  1,386.80 bytes/sec
+total size is 6,263,551  speedup is 1,806.62
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 772 bytes  received 2,646 bytes  2,278.67 bytes/sec
+total size is 6,264,113  speedup is 1,832.68
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 775 bytes  received 2,646 bytes  1,368.40 bytes/sec
+total size is 6,264,143  speedup is 1,831.09
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 828 bytes  received 2,646 bytes  2,316.00 bytes/sec
+total size is 6,264,705  speedup is 1,803.31
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 623 bytes  received 1,907 bytes  1,012.00 bytes/sec
+total size is 6,264,760  speedup is 2,476.19
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 801 bytes  received 2,652 bytes  2,302.00 bytes/sec
+total size is 6,265,287  speedup is 1,814.45
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 678 bytes  received 1,907 bytes  1,723.33 bytes/sec
+total size is 6,265,342  speedup is 2,423.73
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 771 bytes  received 2,664 bytes  1,374.00 bytes/sec
+total size is 6,265,869  speedup is 1,824.12
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 657 bytes  received 1,913 bytes  1,028.00 bytes/sec
+total size is 6,265,924  speedup is 2,438.10
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 826 bytes  received 2,664 bytes  1,396.00 bytes/sec
+total size is 6,266,451  speedup is 1,795.54
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 554 bytes  received 1,919 bytes  989.20 bytes/sec
+total size is 6,266,506  speedup is 2,533.97
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 784 bytes  received 2,670 bytes  2,302.67 bytes/sec
+total size is 6,267,031  speedup is 1,814.43
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 664 bytes  received 1,919 bytes  1,722.00 bytes/sec
+total size is 6,267,086  speedup is 2,426.28
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 807 bytes  received 2,670 bytes  1,390.80 bytes/sec
+total size is 6,267,613  speedup is 1,802.59
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 623 bytes  received 1,925 bytes  1,698.67 bytes/sec
+total size is 6,267,668  speedup is 2,459.84
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 800 bytes  received 2,682 bytes  1,392.80 bytes/sec
+total size is 6,268,195  speedup is 1,800.17
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 680 bytes  received 1,925 bytes  1,042.00 bytes/sec
+total size is 6,268,250  speedup is 2,406.24
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 767 bytes  received 2,688 bytes  2,303.33 bytes/sec
+total size is 6,268,777  speedup is 1,814.41
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 678 bytes  received 1,931 bytes  1,043.60 bytes/sec
+total size is 6,268,832  speedup is 2,402.77
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 838 bytes  received 2,688 bytes  1,410.40 bytes/sec
+total size is 6,269,359  speedup is 1,778.04
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 544 bytes  received 1,937 bytes  1,654.00 bytes/sec
+total size is 6,269,414  speedup is 2,526.97
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 700 bytes  received 2,694 bytes  1,357.60 bytes/sec
+total size is 6,269,941  speedup is 1,847.36
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 657 bytes  received 1,937 bytes  1,729.33 bytes/sec
+total size is 6,269,996  speedup is 2,417.11
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 822 bytes  received 2,694 bytes  1,406.40 bytes/sec
+total size is 6,270,523  speedup is 1,783.43
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 621 bytes  received 1,943 bytes  1,025.60 bytes/sec
+total size is 6,270,578  speedup is 2,445.62
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 804 bytes  received 2,706 bytes  1,404.00 bytes/sec
+total size is 6,271,105  speedup is 1,786.64
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 683 bytes  received 1,943 bytes  1,050.40 bytes/sec
+total size is 6,271,160  speedup is 2,388.10
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 854 bytes  received 2,706 bytes  2,373.33 bytes/sec
+total size is 6,271,687  speedup is 1,761.71
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 652 bytes  received 1,949 bytes  1,040.40 bytes/sec
+total size is 6,271,742  speedup is 2,411.28
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 812 bytes  received 2,712 bytes  2,349.33 bytes/sec
+total size is 6,272,269  speedup is 1,779.87
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 539 bytes  received 1,955 bytes  1,662.67 bytes/sec
+total size is 6,272,324  speedup is 2,514.97
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 785 bytes  received 2,718 bytes  1,401.20 bytes/sec
+total size is 6,272,851  speedup is 1,790.71
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 662 bytes  received 1,955 bytes  1,744.67 bytes/sec
+total size is 6,272,906  speedup is 2,396.98
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 828 bytes  received 2,724 bytes  2,368.00 bytes/sec
+total size is 6,273,433  speedup is 1,766.17
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 623 bytes  received 1,961 bytes  1,033.60 bytes/sec
+total size is 6,273,488  speedup is 2,427.82
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 806 bytes  received 2,730 bytes  2,357.33 bytes/sec
+total size is 6,274,015  speedup is 1,774.33
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 694 bytes  received 1,961 bytes  1,062.00 bytes/sec
+total size is 6,274,070  speedup is 2,363.11
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 863 bytes  received 2,730 bytes  2,395.33 bytes/sec
+total size is 6,274,597  speedup is 1,746.34
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 865 bytes  received 2,730 bytes  2,396.67 bytes/sec
+total size is 6,274,627  speedup is 1,745.38
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 811 bytes  received 2,736 bytes  1,418.80 bytes/sec
+total size is 6,275,189  speedup is 1,769.15
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 540 bytes  received 1,973 bytes  1,005.20 bytes/sec
+total size is 6,275,244  speedup is 2,497.11
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 780 bytes  received 2,748 bytes  1,411.20 bytes/sec
+total size is 6,275,771  speedup is 1,778.85
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 661 bytes  received 1,973 bytes  1,053.60 bytes/sec
+total size is 6,275,826  speedup is 2,382.62
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 829 bytes  received 2,748 bytes  2,384.67 bytes/sec
+total size is 6,276,353  speedup is 1,754.64
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 624 bytes  received 1,979 bytes  1,041.20 bytes/sec
+total size is 6,276,408  speedup is 2,411.22
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 801 bytes  received 2,754 bytes  1,422.00 bytes/sec
+total size is 6,276,935  speedup is 1,765.66
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 682 bytes  received 1,979 bytes  1,774.00 bytes/sec
+total size is 6,276,990  speedup is 2,358.88
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 807 bytes  received 2,754 bytes  1,424.40 bytes/sec
+total size is 6,277,517  speedup is 1,762.85
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 649 bytes  received 1,985 bytes  1,053.60 bytes/sec
+total size is 6,277,572  speedup is 2,383.28
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 818 bytes  received 2,766 bytes  1,433.60 bytes/sec
+total size is 6,278,099  speedup is 1,751.70
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 532 bytes  received 1,991 bytes  1,009.20 bytes/sec
+total size is 6,278,154  speedup is 2,488.37
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 779 bytes  received 2,772 bytes  1,420.40 bytes/sec
+total size is 6,278,681  speedup is 1,768.14
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 659 bytes  received 1,991 bytes  1,060.00 bytes/sec
+total size is 6,278,736  speedup is 2,369.33
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+nohup.out
+sync_watch.log
+
+sent 823 bytes  received 2,772 bytes  1,438.00 bytes/sec
+total size is 6,279,263  speedup is 1,746.67
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 826 bytes  received 2,772 bytes  1,439.20 bytes/sec
+total size is 6,279,293  speedup is 1,745.22
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 797 bytes  received 2,778 bytes  2,383.33 bytes/sec
+total size is 6,279,855  speedup is 1,756.60
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 679 bytes  received 1,997 bytes  1,070.40 bytes/sec
+total size is 6,279,910  speedup is 2,346.75
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 859 bytes  received 2,778 bytes  1,039.14 bytes/sec
+total size is 6,280,437  speedup is 1,726.82
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 654 bytes  received 2,003 bytes  759.14 bytes/sec
+total size is 6,280,492  speedup is 2,363.75
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 828 bytes  received 2,790 bytes  1,033.71 bytes/sec
+total size is 6,281,017  speedup is 1,736.05
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 531 bytes  received 2,009 bytes  725.71 bytes/sec
+total size is 6,281,072  speedup is 2,472.86
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+nohup.out
+sync_watch.log
+sync_watch.log
+
+sent 782 bytes  received 2,796 bytes  1,431.20 bytes/sec
+total size is 6,281,597  speedup is 1,755.62
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 662 bytes  received 2,009 bytes  763.14 bytes/sec
+total size is 6,281,652  speedup is 2,351.80
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+sync_watch.log
+
+sent 827 bytes  received 2,796 bytes  658.73 bytes/sec
+total size is 6,282,177  speedup is 1,733.97
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+
+sent 618 bytes  received 2,015 bytes  585.11 bytes/sec
+total size is 6,282,232  speedup is 2,385.96
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 808 bytes  received 2,802 bytes  802.22 bytes/sec
+total size is 6,282,755  speedup is 1,740.38
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 723 bytes  received 2,015 bytes  608.44 bytes/sec
+total size is 6,282,810  speedup is 2,294.67
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 756 bytes  received 2,814 bytes  375.79 bytes/sec
+total size is 6,283,333  speedup is 1,760.04
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 671 bytes  received 2,021 bytes  316.71 bytes/sec
+total size is 6,283,388  speedup is 2,334.10
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+
+sent 816 bytes  received 2,814 bytes  1,037.14 bytes/sec
+total size is 6,283,911  speedup is 1,731.10
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+
+sent 727 bytes  received 2,820 bytes  417.29 bytes/sec
+total size is 6,284,207  speedup is 1,771.70
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+
+sent 759 bytes  received 2,820 bytes  376.74 bytes/sec
+total size is 6,284,501  speedup is 1,755.94
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+
+sent 782 bytes  received 2,820 bytes  800.44 bytes/sec
+total size is 6,284,795  speedup is 1,744.81
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+nohup.out
+sync_watch.log
+sending incremental file list
+
+sent 794 bytes  received 2,820 bytes  1,445.60 bytes/sec
+total size is 6,285,089  speedup is 1,739.09
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+sync_watch.log
+
+sent 647 bytes  received 2,033 bytes  1,072.00 bytes/sec
+total size is 6,285,144  speedup is 2,345.20
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+sending incremental file list
+sending incremental file list
+README.md
+nohup.out
+sync_watch.log
+test_kraken_api3.py
+README.md
+nohup.out
+sync_watch.log
+test_kraken_api3.py
+
+sent 1,794 bytes  received 2,924 bytes  10.81 bytes/sec
+total size is 6,285,818  speedup is 1,332.31
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync error: unexplained error (code 255) at rsync.c(760) [sender=3.2.7]
+rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(760) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+No user exists for uid 501
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+No user exists for uid 501
+rsync script completed at Sun May 19 19:11:54 CEST 2024
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
+rsync script completed at Sun May 19 19:09:05 CEST 2024
+No user exists for uid 501

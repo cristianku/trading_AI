@@ -35,7 +35,7 @@ def safe_request(url):
 def fetch_all_trades(pair,since=0):
     first_iteration = True  # To control header writing
 
-    print("UNIX timestamp for 3 days ago:", since)
+    print("UNIX timestamp for X days ago:", since)
     readable_timestamp = datetime.utcfromtimestamp(since).strftime('%Y-%m-%d %H:%M:%S')
     print("Last returned timestamp:", readable_timestamp)
 
@@ -102,7 +102,7 @@ local_time = datetime.now(swiss_tz)
 # Convert to UTC
 utc_time = local_time.astimezone(pytz.utc)
 
-utc_time_since = utc_time - timedelta(days=3)
+utc_time_since = utc_time - timedelta(days=1)
 
 since = int(time.mktime(utc_time_since.timetuple()))  # Start from the beginning or a specific timestamp
 
