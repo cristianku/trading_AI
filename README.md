@@ -149,14 +149,14 @@ sudo systemctl restart influxdb
 ```
 
 
--- The service listens on port 9086
+-- The service listens on port 8086
 ```bash
-sudo ss -tunelp| grep 9086
+sudo ss -tunelp| grep 8086
 ```
 
 -- Firewall settings 
 ```bash
-sudo firewall-cmd --zone=public --add-port=8086/tcp --permanent
+sudo firewall-cmd --zone=FedoraServer --add-port=8086/tcp --permanent
 sudo firewall-cmd --reload
 ```
 
@@ -169,5 +169,24 @@ https://docs.influxdata.com/influxdb/v2/reference/config-options/?t=TOML#view-yo
 ```bash
 influx server-config
 ```
+<h3>InfluxDB Chronograf
+https://docs.influxdata.com/chronograf/v1/introduction/installation/?t=RedHat+%26amp%3B+CentOS
+
+```bash
+sudo dnf install chronograf
+```
+
+sudo systemctl start chronograf
+
+sudo systemctl enable chronograf
+
+```bash
+sudo firewall-cmd --zone=FedoraServer --add-port=8888/tcp --permanent
+sudo firewall-cmd --reload
+```
+
+
+http://fedora-server:8888
+
 
 
